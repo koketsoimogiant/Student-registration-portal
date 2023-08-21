@@ -1,0 +1,58 @@
+html { margin: 0; padding: 0; background-color: transparent; }
+
+body {
+	padding: 5px;
+	background: linear-gradient(#242424,#252525,#242424);
+}
+
+.header, .jumbotron {
+	background: rgba(255,255,255,0.2);
+	color: white !important;
+}
+
+.sub-title {
+	margin: 15px;
+}
+
+.main {
+	margin: 0;
+	padding: 5px;
+}
+
+.row .col-sm {
+	margin: 5px;
+}
+
+.border {
+	border: 1px solid purple;
+}
+
+.modal-footer {
+	color: whitesmoke;
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+	margin-top: 5px;
+}
+
+
+/* Misc */
+/* =================================================================================== */
+.padding5 { padding: 5px; }    .margin5 { margin: 5px; }
+.padding10 { padding: 10px; }  .margin10 { margin: 10px; }
+.padding15 { padding: 15px; }  .margin15 { margin: 15px; }
+.padding20 { padding:20px; }   .margin20{ margin: 20px; }
+
+.dash-border-gry1 { border: 1px dashed grey; }
+.solid-border-gry2 { border: 1px dashed grey; }
+
+.col-sm {
+	padding: 10px;
+    border: 1px dashed grey;
+	border-radius: 10px;
+	text-align: center;
+}
+
+button, input, optgroup, select, textarea {
+	margin: 5px;
+}

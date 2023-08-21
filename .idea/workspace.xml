@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc2f676c-d4c8-4f5f-8adf-d48b0c70463f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1hLJXvnXFbaZp4A14MEZxTZWt8T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../php/php.exe" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="login.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/login.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.login.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc2f676c-d4c8-4f5f-8adf-d48b0c70463f" name="Default Changelist" comment="" />
+      <created>1599784489744</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599784489744</updated>
+      <workItem from="1599784491705" duration="1790000" />
+      <workItem from="1600199770424" duration="6820000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="263" y="38" key="#CLI_Interpreters" timestamp="1599785798028">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="263" y="38" key="#CLI_Interpreters/0.0.1366.768@0.0.1366.768" timestamp="1599785798028" />
+    <state x="438" y="207" key="#Notifications" timestamp="1600307938983">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="438" y="207" key="#Notifications/0.0.1366.768@0.0.1366.768" timestamp="1600307938983" />
+    <state x="390" y="26" key="#PHP" timestamp="1599785810935">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="390" y="26" key="#PHP/0.0.1366.768@0.0.1366.768" timestamp="1599785810935" />
+    <state x="59" y="225" key="#SQL_Dialects" timestamp="1600308250601">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="59" y="225" key="#SQL_Dialects/0.0.1366.768@0.0.1366.768" timestamp="1600308250601" />
+    <state x="275" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599785608649">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1599785608649" />
+    <state x="463" y="138" key="FileChooserDialogImpl" timestamp="1599785771278">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="138" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1599785771278" />
+    <state width="1323" height="238" key="GridCell.Tab.0.bottom" timestamp="1600520254890">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1600520254890" />
+    <state width="1323" height="238" key="GridCell.Tab.0.center" timestamp="1600520254890">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1600520254890" />
+    <state width="1323" height="238" key="GridCell.Tab.0.left" timestamp="1600520254890">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1600520254890" />
+    <state width="1323" height="238" key="GridCell.Tab.0.right" timestamp="1600520254890">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1600520254890" />
+    <state width="1323" height="238" key="GridCell.Tab.1.bottom" timestamp="1600520254891">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1600520254891" />
+    <state width="1323" height="238" key="GridCell.Tab.1.center" timestamp="1600520254891">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1600520254891" />
+    <state width="1323" height="238" key="GridCell.Tab.1.left" timestamp="1600520254891">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1600520254891" />
+    <state width="1323" height="238" key="GridCell.Tab.1.right" timestamp="1600520254891">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1600520254891" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1600308549593">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1366.768@0.0.1366.768" timestamp="1600308549593" />
+    <state x="0" y="0" key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog" timestamp="1600308127847">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="0" y="0" key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog/0.0.1366.768@0.0.1366.768" timestamp="1600308127847" />
+  </component>
+</project>
